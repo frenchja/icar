@@ -1,0 +1,9 @@
+Package: icar
+Type: Package
+Title: A package for the generation and analysis of cognitive ability items.
+Version: 0.1
+Date: 2013-01-15
+Author: Jason A. French, David M. Condon, & William Revelle
+Maintainer: Jason A. French <frenchja@u.northwestern.edu>
+Description: Track development at https://github.com/frenchja/icar.
+License: GPL (>=3)
