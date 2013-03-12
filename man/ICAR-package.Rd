@@ -17,8 +17,17 @@ Type: \tab Package\cr
 Version: \tab 0.1\cr
 Date: \tab 2013-01-15\cr
 License: \tab GPL (>=3)\cr
+Website: \url{http://frenchja.github.com/icar}
+Issue Tracker: \url{https://github.com/frenchja/icar/issues}
 }
-~~ An overview of how to use the package, including the most important functions ~~
+cleanSAPA
+
+dropSAPA
+
+getSAPA
+
+uniqueSAPA
+
 }
 \author{
 Jason A. French, David M. Condon & William Revelle\cr

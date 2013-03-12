@@ -29,7 +29,14 @@ uniqueSAPA(x)
 %% ~put references to the literature/web site here ~
 }
 \author{
-%%  ~~who you are~~
+Jason A. French, David M. Condon & William Revelle\cr
+Department of Psychology\cr
+Northwestern University\cr
+Evanston, Illinois\cr
+\tabular{ll}{
+Maintainer: \tab Jason A. French <frenchja@u.northwestern.edu>\cr
+\tab \url{https://github.com/frenchja/icar}\cr
+}
 }
 \note{
 %%  ~~further notes~~
